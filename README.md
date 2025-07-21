@@ -1,5 +1,5 @@
-# Getting Started
-Install the dependencies and run the project
+# Poetic Phrase Generator
+Create AI-generated witty and satirical poetic phrases about your favorite things to do and places to visit.
 ```
 npm install
 npm start
